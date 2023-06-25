@@ -8,7 +8,7 @@ Green = "\033[0;32m"
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 bot.remove_command('help')
 
-Bot_token = 'Bot Token')
+Bot_token = 'Bot Token'
 channelid = ID # The channel where the builder will work
 admin = ID # The admin ID (He can generate key for user)
 
