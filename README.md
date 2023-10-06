@@ -1,4 +1,4 @@
-
+Designed to be used with Trap Stealer
 
 
 This script utilizes a Discord bot to build a virus. Only authorized key users are able to generate the virus
